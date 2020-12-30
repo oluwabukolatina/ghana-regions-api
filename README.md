@@ -2,7 +2,7 @@
 > api for ghana, including regions, capital, currency and calling code 
 ## Getting Started
 
->  [Technologies](#technologies-used) &middot; [Testing Tools](#testing-tools) &middot; [Installations](#installations) &middot; [API Endpoints](#api-endpoints) &middot; [Tests](#tests) &middot; [Acknowledgments](#acknowledgments) &middot; [Author](#author)
+>  [Technologies](#technologies-used) &middot; [Testing Tools](#testing-tools) &middot; [API Endpoints](#api-endpoints) &middot; &middot; [Author](#author)
 ---
 
 ## Deployed on heroku 
