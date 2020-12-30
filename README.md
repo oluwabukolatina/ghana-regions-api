@@ -25,13 +25,6 @@ API Documentation generated with [swagger](https://ghana-api.herokuapp.com/api-d
 - [Mocha](https://mochajs.org/) Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 - [Chai](https://chaijs.com) is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 
-## Installations
-
-#### Getting started
-
-- You need to have Node and NPM installed on your computer.
-- Installing [Node](node) automatically comes with npm.
-
 
 ## API Endpoints
 
